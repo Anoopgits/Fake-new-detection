@@ -31,10 +31,16 @@ NLP Library: Hugging Face Transformers (DistilBERT)
 
 Data Processing: Pandas, NumPy, Scikit-learn
 
-Deployment Options: Streamlit
+Deployment Options: Streamlit<img width="616" height="835" alt="Screenshot 2025-09-30 233945" src="https://github.com/user-attachments/assets/8c09c25e-9ad3-4761-88a1-fad752fd2884" />
+
 
 Version Control: Git, GitHub
 
+Screenshots:
+
+
+
+    
 Project Structure:
 Fake-News-Detection/
 │── data/                 # Dataset (train/test CSV)
