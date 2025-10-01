@@ -47,7 +47,7 @@ Fake-News-Detection/
 
 Setup Instructions:
 1️.Clone the Repository
-git clone https://github.com/your-username/Fake-News-Detection.git
+git clone https://github.com/anoop/Fake-News-Detection.git
 cd Fake-News-Detection
 
 2️. Create Virtual Environment
