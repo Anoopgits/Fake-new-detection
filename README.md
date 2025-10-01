@@ -31,14 +31,15 @@ NLP Library: Hugging Face Transformers (DistilBERT)
 
 Data Processing: Pandas, NumPy, Scikit-learn
 
-Deployment Options: Streamlit<img width="616" height="835" alt="Screenshot 2025-09-30 233945" src="https://github.com/user-attachments/assets/8c09c25e-9ad3-4761-88a1-fad752fd2884" />
+Deployment Options: Streamlit
 
 
 Version Control: Git, GitHub
 
 Screenshots:
 
-<img width="300" height="300" alt="Screenshot 2025-09-30 233945" src="https://github.com/user-attachments/assets/8c09c25e-9ad3-4761-88a1-fad752fd2884" />
+<img width="100" height="100" alt="Screenshot 2025-09-30 115208" src="https://github.com/user-attachments/assets/9f1d4d4b-f3bc-44bf-9ff8-db800910eca6" />
+
 
     
 Project Structure:
