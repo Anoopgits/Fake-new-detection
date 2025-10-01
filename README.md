@@ -38,7 +38,7 @@ Version Control: Git, GitHub
 
 Screenshots:
 
-
+<img width="300" height="300" alt="Screenshot 2025-09-30 233945" src="https://github.com/user-attachments/assets/8c09c25e-9ad3-4761-88a1-fad752fd2884" />
 
     
 Project Structure:
