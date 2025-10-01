@@ -1,4 +1,4 @@
-FAKE NEW DETECTION
+FAKE NEW DETECTION:
 
 Fake news spreads quickly across the internet, making it difficult to distinguish between real and fabricated information.
 This project leverages Transformers (DistilBERT) and TensorFlow to build a machine learning model that automatically classifies news articles into FAKE or REAL.
