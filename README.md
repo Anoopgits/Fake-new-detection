@@ -38,7 +38,7 @@ Version Control: Git, GitHub
 
 Screenshots:
 
-<img width="150" height="150" alt="Screenshot 2025-09-30 115208" src="https://github.com/user-attachments/assets/9f1d4d4b-f3bc-44bf-9ff8-db800910eca6" />
+<img width="250" height="250" alt="Screenshot 2025-09-30 115208" src="https://github.com/user-attachments/assets/9f1d4d4b-f3bc-44bf-9ff8-db800910eca6" />
 
 
     
